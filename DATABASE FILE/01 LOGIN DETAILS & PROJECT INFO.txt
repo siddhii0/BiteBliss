@@ -1,0 +1,14 @@
+
+
+**Database Name: Onlinefoodphp**
+
+
+
+
+
+
+**Admin Login Details**
+
+Username: admin
+Password: 
+

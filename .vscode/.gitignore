@@ -1,0 +1,51 @@
+# ========================
+# PHP & XAMPP Project
+# ========================
+
+# Composer / Vendor
+/vendor/
+
+# Node.js / npm
+/node_modules/
+
+# PHP logs and temp files
+*.log
+*.cache
+*.tmp
+
+# Database / config files
+connection/connect.php
+*.sql
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PHPStorm / JetBrains
+/.idea/
+/*.iml
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Node / Build outputs (if any)
+dist/
+build/
